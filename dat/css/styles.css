@@ -63,34 +63,34 @@
 }
 
 .main-section{
-    background-image: url(/wukoserwis/dat/img/mainimage.jpg);
+    background-image: url(/dat/img/mainimage.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 200px 0;
 }
 .main-section1{
-    background-image: url(/wukoserwis/dat/img/mainimg1.jpg);
+    background-image: url(/dat/img/mainimg1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 200px 0;
         background-position: center;
 }
 .main-section2{
-    background-image: url(/wukoserwis/dat/img/mainimg2.jpg);
+    background-image: url(/dat/img/mainimg2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 200px 0;
         background-position: center;
 }
 .main-section3{
-    background-image: url(/wukoserwis/dat/img/mainimg3.jpg);
+    background-image: url(/dat/img/mainimg3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 200px 0;
         background-position: center;
 }
 .main-section4{
-    background-image: url(/wukoserwis/dat/img/mainimg4.jpg);
+    background-image: url(/dat/img/mainimg4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 200px 0;
