@@ -279,6 +279,13 @@
                             percentPosition: true
                         })
             });
+            $(window).on('load', function() {
+                $('.main-gallery').masonry({
+                    itemSelector: '.main-gallery .item',
+
+                    percentPosition: true
+                })
+            });
         </script>
         <button class="btn btn-default" type="button" id="back-to-top"><i class="fas fa-chevron-up"></i><span style="display: none;">Back to top</span></button>
         <div class="outofscreen">
